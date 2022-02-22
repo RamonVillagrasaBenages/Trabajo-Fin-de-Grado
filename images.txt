@@ -24,3 +24,4 @@ images.z23
 images.z24
 images.z25
 images.z26
+imagez.zip
